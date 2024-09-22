@@ -1,4 +1,4 @@
 *.pyc
-.DS_Store
 backup
 chroma
+__pycache__/
